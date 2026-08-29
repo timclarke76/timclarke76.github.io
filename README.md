@@ -1,56 +1,60 @@
-# Tim Clarke
+# Timothy Clarke
 
-**Software Engineer | MSc Advanced Computer Science student | Machine Learning | Explainable AI (XAI) | Cloud Compute**
+**Systems Engineer | C++20 & Rust | Edge AI | High-Performance Computing**
 
-MSc Advanced Computer Science student specialising in ML and cloud compute solutions.
+I have just completed an MSc in Advanced Computer Science, achieving an unbroken track of 'A' grades for all assignments and examinations. My [student-led dissertation](https://github.com/timclarke76/dissertation) specialised in low-level performance, lock-free concurrency, and hardware-constrained Edge AI.
 
-## Current Focus (2025-2026)
-Building portfolio demonstrating:
-- **Explainable AI** for regulated finance (SHAP, model interpretability)
-- **Backend engineering** with Python, FastAPI, PostgreSQL, TimescaleDB
-- **Cloud-native architecture** on AWS (serverless)
+I bring 10 years of commercial software experience (including embedded systems and financial services) progressing from Graduate to Senior, including work in embedded systems and mid-tier services. I am currently seeking a Systems Engineering role within a UK SME or startup.
 
-## Featured Projects
-### [Crypto Detector](https://github.com/timclarke76/crypto-detector) - Full-Stack Crypto Manipulation Detector
-Machine learning system for detecting unusual market patterns with explainable predictions
-- **Tech:** Python, FastAPI, PostgreSQL/TimescaleDB, Scikit-learn, React
-- **Highlights:** SHAP explanations, real-time processing, automated CI/CD
-- **Scale:** Processing 100+ assets continuously
-- **Status:** In development
+## Featured Work
+### [A Comparative Analysis of Memory Management, Concurrency, and Performance in Edge-AI.](https://github.com/timclarke76/dissertation)
+Engineered a functionally identical tri-stream AI pipeline in **C++20, Rust, and Python** deployed on an NVIDIA Jetson Orin Nano to benchmark hardware-constrained performance.
+- **Tech:** C++20, Rust 1.97.1, Python, CUDA, TensorRT, Linux, Docker
+- **Systems Highlights:** Designed a zero-allocation architecture, implemented lock-free/wait-free IPC (Inter-Process Communication), and mitigated mutex/GIL contention to guarantee 100ms real-time deadlines under thermal and power constraints (7-Watt limits).
+
+### GPU Programming & Real-Time Rendering
+Custom graphics engine demonstrating advanced rendering techniques.
+- **Tech:** C++, OpenGL, GLSL
+- **Highlights:** Implemented normal mapping, particle animations, and complex lighting models in a high-performance rendering loop.
 
 ### [Tappy Keyboard](https://play.google.com/store/apps/details?id=app.minibytes.keyboard)
-T9 keyboard app for Android with predictive text
+Production T9 keyboard application for Android featuring predictive text.
 - **Tech:** Kotlin, Android, C++
 - **Highlights:** Published on Google Play, 10k+ downloads
 - **Learning:** End-to-end product lifecycle, user feedback integration
 
 ## Skills
-**Core Stack:**
-- **Languages:** Python, SQL, JavaScript/TypeScript, Kotlin
-- **Backend:** FastAPI, SQLAlchemy, REST APIs, async programming
-- **ML/AI:** Scikit-learn, PyTorch, SHAP (Explainable AI), pandas
-- **Cloud:** AWS (Lambda, SageMaker, RDS), Docker, Terraform
-- **Data:** PostgreSQL, TimescaleDB, time-series analysis
-- **Tools:** Git, Poetry, pytest, Ruff, CI/CD
-
-**Currently Exploring:**
-- Graph Neural Networks for network analysis
-- Advanced time-series forecasting
-- Production MLOps patterns
+- **Systems Languages:** C++20, Rust, C
+- **Concurrency & Memory:** Lock-free data structures, Multithreading, Memory Profiling, IPC, Zero-allocation design
+- **Hardware & AI:** NVIDIA Jetson, CUDA, TensorRT, Edge Computing
+- **Infrastructure:** Linux, Docker, CI/CD, Git, AWS, Terraform
+- **Secondary Languages:** Python, Bash, SQL, Kotlin, Java
 
 ## Background
-- **Completing MSc Advanced Computer Science** - University of Dundee (2025–2026)
-- **Banking & Financial Services (1997-2007)** — 10 years
-  - Graduate Software Engineer → Principal Developer
-  - Embedded systems, online banking, mid-tier services
-- **Career break followed by self-employment** (2007-2025)
-- **Returning to tech** through formal education
-- **Location:** Blairgowrie, Scotland. Edinburgh and Dundee accessible. Willing to relocate for the right opportunity.
+- **2025–2026 | MSc Advanced Computer Science** — University of Dundee 
+  - *Achieved straight As across all modules, assignments, and exams (including GPU Programming, DevOps & Microservices, Big Data, and NLP).*
+  - *Academic feedback consistently highlighted "excellent code structure," "outstanding technical detail," and engineering work "significantly above and beyond what was requested."*
+- **2007–2025 | Self-Employment & Career Break**
+  - *Stepped away from the industry to pursue self-employment and different life priorities.*
+- **2000–2007 | Senior / Lead Developer** — Intelligent Finance (Banking, formerly a part of HBOS)
+  - *Promoted twice to a lead developer level (formerly titled 'Principal'). Worked on high-volume, mid-tier enterprise financial services.*
+- **1997–2000 | Embedded Software Engineer** — Payment Systems (acquired by Ingenico)
+  - *Foundational systems engineering in C and C++. Developed embedded software for hardware-constrained payment terminals, early smart cards, and remote configuration comms. Served as the go-to engineer for complex low-level diagnostic debugging.*
 
+
+- **2025–2026 | MSc Advanced Computer Science** — University of Dundee 
+  - *Distinction-level performance across DevOps, GPU Programming, and NLP.*
+- **2007–2025 | Self-Employment & Career Break**
+  - *Stepped away from the industry to pursue self-employment and different life priorities.*
+- **1997–2007 | Principal Developer / Software Engineer** — Banking & Financial Services
+  - *10 years of commercial engineering, progressing from Graduate to Principal Developer, including foundational work in embedded systems and mid-tier services.*
 ## Contact
+- **Location:** Currently in Scotland. Highly flexible and willing to relocate anywhere in the UK for the right remote, hybrid, or on-site opportunity.
 - **GitHub:** [@timclarke76](https://github.com/timclarke76)
 - **Email:** [timothyclarke@gmail.com](mailto:timothyclarke@gmail.com)
+- **LinkedIn:** Currently unavailable — please contact via email
 
 ---
+*Open to opportunities in: Systems Engineering, Embedded Software, C++ Development, Rust Development.*
 
 **Open to opportunities in:** ML Engineering, Cloud Architecture, Backend Engineering, Data Engineering
