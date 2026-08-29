@@ -55,6 +55,5 @@ Production T9 keyboard application for Android featuring predictive text.
 - **LinkedIn:** Currently unavailable — please contact via email
 
 ---
-*Open to opportunities in: Systems Engineering, Embedded Software, C++ Development, Rust Development.*
 
-**Open to opportunities in:** ML Engineering, Cloud Architecture, Backend Engineering, Data Engineering
+**Open to opportunities in:** Systems Engineering, Embedded Software, C++ Development, Rust Development.
