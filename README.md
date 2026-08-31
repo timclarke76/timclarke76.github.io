@@ -2,7 +2,7 @@
 
 **Systems Engineer | C++ & Rust**
 
-I have just completed an MSc in Advanced Computer Science, achieving an unbroken track of 'A' grades for all modules, assignments, and exams. My self-directed dissertation was a comparative analysis of concurrency and memory management on a hardware-constrained platform using C++, Rust, and Python.
+I have just completed an MSc in Advanced Computer Science, achieving an unbroken track record of 'A' grades for all modules, assignments, and exams. My self-directed dissertation was a comparative analysis of concurrency and memory management on a hardware-constrained platform using C++, Rust, and Python.
 
 I bring 10 years of historic commercial software experience, progressing from Graduate to Senior Developer across embedded systems and financial services. I am currently seeking a Systems Engineering role within a UK SME or startup.
 
@@ -22,18 +22,18 @@ Custom graphics engine demonstrating advanced rendering techniques.
 Production T9 keyboard application for Android featuring predictive text.
 - **Tech:** Kotlin, Android NDK, C++
 - **Highlights:** Published on Google Play, 10k+ downloads.
-- **Scope:** Managed the end-to-end product lifecycle, and user feedback integration.
+- **Scope:** Managed the end-to-end product lifecycle and user feedback integration.
 
 ## Skills
 - **Languages:** C++, Rust, C, Python, Java, Kotlin, Bash, SQL
 - **Systems & Concurrency:** Lock-free/Wait-free IPC, Multithreading, Memory Profiling, Zero-allocation architectures
-- **Hardware & AI:** NVIDIA Jetson, Edge Computing, IoT, POSIX/UNIX environments
+- **Hardware & Environments:** NVIDIA Jetson, Edge Computing, IoT, POSIX/UNIX
 - **Infrastructure:** Linux (Arch, CachyOS, NixOS, OpenSUSE, Ubuntu), Docker, CI/CD, Git, CMake, Cargo, Poetry, AWS, Terraform
 
 ## Background & Narrative
 - **2025–2026 | MSc Advanced Computer Science** — University of Dundee
   - *Achieved straight As across all modules, assignments, and exams (including GPU Programming, DevOps & Microservices, Big Data, and Statistics).*
-  - *Academic feedback consistently highlighted "excellent code structure," "outstanding piece of work," "outstanding technical detail," and engineering work "significantly above and beyond what was requested."*
+  - *Academic feedback consistently highlighted "excellent code structure", "outstanding piece of work", "outstanding technical detail", and engineering work "significantly above and beyond what was requested."*
 - **2007–2025 | Self-Employment & Career Break**
   - *Stepped away from the industry to pursue self-employment and different life priorities.*
 - **2000–2007 | Senior / Lead Developer** — Intelligent Finance (Banking, formerly part of HBOS)
