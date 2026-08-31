@@ -1,6 +1,6 @@
 # Timothy Clarke
 
-**Systems Engineer | C++ & Rust**
+**Systems Engineer | C++, Rust, Python**
 
 I have just completed an MSc in Advanced Computer Science, achieving an unbroken track record of 'A' grades for all modules, assignments, and exams. My self-directed dissertation was a comparative analysis of concurrency and memory management on a hardware-constrained platform using C++, Rust, and Python.
 
