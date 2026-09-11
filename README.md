@@ -13,10 +13,12 @@ Independently architected and engineered a functionally identical tri-stream AI 
 - **Tech:** C++, Rust, Python, CUDA, TensorRT, Linux, Docker
 - **Highlights:** Designed a zero-allocation pipeline architecture and implemented wait-free/lock-free IPC. Benchmarked and performed a comparative analysis of memory management and concurrency under hardware thermal and power constraints.
 
-### GPU Programming & Real-Time Rendering
-Custom graphics engine demonstrating advanced rendering techniques. *(Grade: A)*
-- **Tech:** C++, OpenGL, GLSL
-- **Highlights:** Implemented normal mapping, particle animations, and complex lighting models in a high-performance rendering loop.
+### [GPU Programming & Real-Time Rendering](https://github.com/timclarke76/gpuProgramming)
+Custom C++ rendering engine built from scratch to demonstrate graphics architecture and rendering techniques. *(Grade: A)*
+- **Tech:** C++, OpenGL, GLSL, GLFW, Assimp
+- **Highlights:** Designed and implemented a custom Scene Graph architecture for efficient matrix transformations.
+  Implemented instanced particle emitters, normal mapping, HDR tone mapping (ACES/Reinhard), and multi-pass Gaussian
+  bloom within an optimised C++ render loop.
 
 ### [Tappy Keyboard](https://play.google.com/store/apps/details?id=app.minibytes.keyboard)
 Production T9 keyboard application for Android featuring predictive text.
